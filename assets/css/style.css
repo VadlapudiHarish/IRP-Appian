@@ -95,7 +95,7 @@ button:focus {
 }
 
 img {
-  max-width: 100%;
+  max-width: 75%;
 }
 
 .ptb-100 {
@@ -6906,8 +6906,7 @@ area {
 }
 
 .into-card {
-  background: linear-gradient(91.01deg, #F48F8F 2.65%, #EBFF00 106.32%);
-  border-radius: 10px;
+  color: #fff;
 }
 
 .second-session .second-session-text {
@@ -7345,7 +7344,7 @@ area {
   height: 100%;
   background-repeat: no-repeat;
   background-position: center;
-  animation: blink 2s linear infinite;
+  animation: blink 4s linear infinite;
 }
 .animate-bg::after {
   content: "";
@@ -7380,7 +7379,7 @@ area {
   height: 100%;
   position: absolute;
   background-repeat: no-repeat;
-  animation: rotating 5s linear infinite;
+  animation: rotating 7s linear infinite;
   left: 0;
   right: 0;
   margin: auto;
@@ -7394,7 +7393,7 @@ area {
   height: 35%;
   position: absolute;
   background-repeat: no-repeat;
-  animation: rotating 5s linear infinite;
+  animation: rotating 7s linear infinite;
   left: 0;
   right: 0;
   margin: auto;

@@ -103,7 +103,7 @@ button {
     vertical-align: middle;
 }
 img {
-    max-width: 100%;
+    max-width: 75%;
 }
 .ptb-100 {
     padding-top: 100px;
@@ -7259,8 +7259,9 @@ left: -40px;
 }
 
 .into-card{
-    background: linear-gradient(91.01deg, #F48F8F 2.65%, #EBFF00 106.32%);
-    border-radius: 10px;
+    // background: linear-gradient(91.01deg, #F48F8F 2.65%, #EBFF00 106.32%);
+    // border-radius: 10px;
+    color: #fff;
 }
 
 .second-session{
@@ -7730,7 +7731,7 @@ position: relative;
     height: 100%;
     background-repeat: no-repeat;
     background-position: center;
-	animation: blink 2s linear infinite;
+	animation: blink 4s linear infinite;
 }
 &::after{
     content: '';
@@ -7760,7 +7761,7 @@ position: relative;
         height: 100%;
         position: absolute;
         background-repeat: no-repeat;
-        animation: rotating 5s linear infinite;
+        animation: rotating 7s linear infinite;
         left: 0;
         right: 0;
         margin: auto;
@@ -7774,7 +7775,7 @@ position: relative;
         height: 35%;
         position: absolute;
         background-repeat: no-repeat;
-        animation: rotating 5s linear infinite;
+        animation: rotating 7s linear infinite;
         left: 0;
         right: 0;
         margin: auto;
